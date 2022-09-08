@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/app-icon.ico</file>
+    <file>icons/copy.svg</file>
+    <file>icons/invisible.svg</file>
+    <file>icons/lock.svg</file>
+    <file>icons/refresh.svg</file>
+    <file>icons/visible.svg</file>
+  </qresource>
+</RCC>

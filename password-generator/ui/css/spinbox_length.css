@@ -1,0 +1,10 @@
+QSpinBox {
+    border: 2px solid gray;
+    border-radius: 5px;
+    background: transparent;
+    padding: 2px;
+}
+
+QSpinBox:hover {
+    border-color: #009900;
+}

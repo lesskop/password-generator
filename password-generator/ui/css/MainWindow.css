@@ -1,0 +1,33 @@
+QWidget {
+    background-color: #121212;
+    color: white;
+    font-family: Verdana;
+    font-size: 16pt;
+    margin: 10px;
+}
+
+QPushButton {
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+
+QPushButton#btn_lower,
+#btn_upper,
+#btn_digits,
+#btn_special {
+    padding: 10px;
+}
+
+QPushButton:hover {
+    border-color: #090;
+}
+
+QPushButton:pressed {
+    border: 4px solid #090;
+    border-radius: 5px;
+}
+
+QPushButton:checked {
+    background-color: #006300;
+    border-color: #090;
+}
