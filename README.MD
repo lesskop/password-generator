@@ -1,5 +1,9 @@
 # Password Generator
 
+![GitHub all releases](https://img.shields.io/github/downloads/lesskop/password-generator/total)
+![GitHub repo size](https://img.shields.io/github/repo-size/lesskop/password-generator)
+![YouTube Video Views](https://img.shields.io/youtube/views/WHSqprSMjnQ?style=social)
+
 Cross-platform GUI password generator written in Python
 
 ## Screenshots
@@ -29,3 +33,9 @@ Cross-platform GUI password generator written in Python
 Python 3.7+
 
 `pip install -r requirements.txt`
+
+## Tutorials
+
+[YouTube video](https://youtu.be/WHSqprSMjnQ)
+
+[Статья на Хабре](https://habr.com/p/689536)
