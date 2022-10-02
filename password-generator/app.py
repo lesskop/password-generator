@@ -1,6 +1,7 @@
 import sys
 
 from PySide6.QtWidgets import QApplication, QMainWindow, QLineEdit
+from PySide6.QtGui import QCloseEvent
 
 import buttons
 import password
@@ -88,6 +89,9 @@ class PasswordGenerator(QMainWindow):
 
     def copy_to_clipboard(self) -> None:
         QApplication.clipboard().setText(self.ui.line_password.text())
+
+    def closeEvent(self, event: QCloseEvent) -> None:
+        QApplication.clipboard().clear()
 
 
 if __name__ == "__main__":
