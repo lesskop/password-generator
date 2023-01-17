@@ -22,10 +22,10 @@ Cross-platform GUI password generator written in Python
 
 ## Download
 
-[Releases page](https://github.com/lesskop/password-generator/releases)
+[Last release](https://github.com/lesskop/password-generator/releases/tag/v1.0)
 
 - [Windows](https://github.com/lesskop/password-generator/releases/download/v1.0/password-generator-v1.0-win64.zip)
-- [Ubuntu](https://github.com/lesskop/password-generator/releases/download/v1.0/password-generator-v1.0-linux64.tar.gz)
+- [Linux](https://github.com/lesskop/password-generator/releases/download/v1.0/password-generator-v1.0-linux64.tar.gz)
 - [macOS](https://github.com/lesskop/password-generator/releases/download/v1.0/password-generator-v1.0-macos.tar.gz)
 
 ## Requirements
