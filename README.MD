@@ -2,7 +2,10 @@
 
 ![GitHub all releases](https://img.shields.io/github/downloads/lesskop/password-generator/total)
 ![GitHub repo size](https://img.shields.io/github/repo-size/lesskop/password-generator)
-![YouTube Video Views](https://img.shields.io/youtube/views/WHSqprSMjnQ?style=social)
+
+<a href="https://www.youtube.com/watch?v=WHSqprSMjnQ">
+  <img src="https://img.shields.io/youtube/views/WHSqprSMjnQ?style=social" alt="YouTube Video Views">
+</a>
 
 Cross-platform GUI password generator written in Python
 
